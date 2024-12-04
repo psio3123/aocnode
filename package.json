@@ -1,0 +1,29 @@
+{
+  "name": "aocnode",
+  "version": "1.0.0",
+  "description": "AdventOfCode",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psio3123/aocnode.git"
+  },
+  "keywords": [
+    "Advent",
+    "of",
+    "Code",
+    "NodeJs"
+  ],
+  "author": "Harald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psio3123/aocnode/issues"
+  },
+  "homepage": "https://github.com/psio3123/aocnode#readme",
+  "dependencies": {
+    "advent-of-code-client": "^0.2.0"
+  }
+}
