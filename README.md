@@ -1,4 +1,4 @@
-# aocnode 1.0
+# AdventOfCode with NodeJS, V1.1
 
 My AdventOfCode learning NodeJS
 
@@ -13,3 +13,7 @@ My AdventOfCode learning NodeJS
 * create sub-folder for year and day and copy solution.js from template folder
 * start coding the part1 and part2
 * run "npm run main" or "node index.js"
+
+## Reference
+
+* Library used for AoC Access: [https://github.com/toblu/advent-of-code-client/blob/main/README.md]
