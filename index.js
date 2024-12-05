@@ -4,14 +4,14 @@ import { stat, writeFile, readFile } from 'fs/promises';
 
 // Settings
 const settings = {
-  year: 2015,
-  day: 2,
-  part: 1,
+  year: 2024,
+  day: 1,
+  part: 2,
   sendAnswer: true
 };
 
 // here the main code is imported
-import { parts } from './2015_2/solution.js';
+import { parts } from './2024_1/solution.js';
 
 // 
 const client = new AocClient({
