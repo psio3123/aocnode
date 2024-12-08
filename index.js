@@ -5,13 +5,13 @@ import { stat, writeFile, readFile } from 'fs/promises';
 // Settings
 const settings = {
   year: 2024,
-  day: 1,
-  part: 2,
-  sendAnswer: true
+  day: 3,
+  part: 1,
+  sendAnswer: false
 };
 
 // here the main code is imported
-import { parts } from './2024_1/solution.js';
+import { parts } from './2024_3/solution.js';
 
 // 
 const client = new AocClient({
