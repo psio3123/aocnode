@@ -1,4 +1,4 @@
-# AdventOfCode with NodeJS, V1.5
+# AdventOfCode with NodeJS, v1.6
 
 My AdventOfCode learning NodeJS
 

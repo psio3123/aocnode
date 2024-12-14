@@ -6,7 +6,7 @@ import { stat, writeFile, readFile } from 'fs/promises';
 const settings = {
   year: 2024,
   day: 4,
-  part: 1,
+  part: 2,
   sendAnswer: false
 };
 
