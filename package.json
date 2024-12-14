@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "main": "node index.js"
+    "main": "node index.js",
+    "new": "cp -r 2000_1"
   },
   "repository": {
     "type": "git",

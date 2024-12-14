@@ -1,4 +1,4 @@
-# AdventOfCode with NodeJS, v1.6
+# AdventOfCode with NodeJS, v1.7
 
 My AdventOfCode learning NodeJS
 
@@ -13,6 +13,14 @@ My AdventOfCode learning NodeJS
 * create sub-folder for year and day and copy solution.js from template folder
 * start coding the part1 and part2
 * run "npm run main" or "node index.js"
+
+## prep new solution
+
+~~~~bash
+npm run new 2024_5
+~~~~
+
+then edit index.js: settings and import
 
 ## Reference
 
